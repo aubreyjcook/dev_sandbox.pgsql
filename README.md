@@ -1,2 +1,3 @@
-# _TEMPLATE_dev_sandbox.ajc
-Technology-agnostic sandbox environment for developing implementations of programming solutions.
+# dev_sandbox.pgsql
+
+Technology-agnostic sandbox environment for developing implementations of programming solutions using PostGrSQL.
